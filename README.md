@@ -3,7 +3,7 @@
 
 |  | # | Course / Book | Author | Status |
 |:---:|:---:|:---|:---|:---:|
-|  | 1 | Praxis | Prandiano EaD | ![0%](https://progress-bar.dev/0) |
+|  | 1 | Praxis | Prandiano EaD | ![2%](https://progress-bar.dev/2) |
 
 
 
